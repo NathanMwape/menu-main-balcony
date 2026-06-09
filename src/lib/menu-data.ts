@@ -293,9 +293,7 @@ export const fumerAromes: Category[] = [
     slug: "blueberry",
     label: "BLUEBERRY",
     desc: "Myrtille gourmande",
-    items: [{ name: "Chicha Blueberry", price: "15$" }
-            {name}
-    ],
+    items: [{ name: "Chicha Blueberry", price: "15$" }],
   },
   {
     slug: "mix-maison",
