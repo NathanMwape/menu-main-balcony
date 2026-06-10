@@ -13,9 +13,9 @@ export const Route = createFileRoute("/paiements")({
 
 // 👉 Personnalisez ici vos numéros et coordonnées bancaires
 const methods = [
-  { label: "AIRTEL MONEY", account: "+243 995 544 390", holder: "Balcony lounge" },
-  { label: "ORANGE MONEY", account: "+243 891 701 900", holder: "balcony lounge" },
-  { label: "M-PESA", account: "+243 814 044 112", holder: "balcony lounge" },
+  { label: "AIRTEL MONEY", account: "", holder: "Balcony lounge" },
+  { label: "ORANGE MONEY", account: "", holder: "balcony lounge" },
+  { label: "M-PESA", account: "", holder: "balcony lounge" },
   { label: "BANQUE", account: "00000-00000000-00", holder: "Balcony lounge", bank: "Equity BCDC" },
 ];
 
