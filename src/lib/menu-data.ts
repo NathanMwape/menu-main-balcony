@@ -261,47 +261,26 @@ export const boireCategories: Category[] = [
 
 export const fumerAromes: Category[] = [
   {
-    slug: "double-pomme",
-    label: "DOUBLE POMME",
+    slug: "SHISHA NORMAL",
+    label: "SHISHA NORMAL",
     desc: "Classique oriental",
     items: [
-      { name: "Chicha Double Pomme", price: "15$",  },
-      { name: "Double Pomme Menthe", price: " 30$",  },
-      { name: "Double Pomme Citron", price: "50$",  },
-      
+      { name: "SHISHA NORMAL", price: "15$",  },
     ],
   },
   {
-    slug: "menthe-glaciale",
-    label: "MENTHE GLACIALE",
+    slug: "SHISHA MIXTE",
+    label: "SHISHA MIXTE",
     desc: "Fraîcheur intense",
     items: [
-      { name: "Chicha Menthe Glaciale", price: "15$" },
-      { name: "Menthe Citron", price: "30$" },
-      { name: "Menthe Orange", price: "50$" },
+      { name: "SHISHA MIXTE", price: "30$" }
       
     ],
   },
   {
-    slug: "fruits-rouges",
-    label: "FRUITS ROUGES",
-    desc: "Fraise · framboise",
-    items: [{ name: "Chicha Fruits Rouges", price: "30$" }],
-  },
-  
-  {
-    slug: "blueberry",
-    label: "BLUEBERRY",
-    desc: "Myrtille gourmande",
-    items: [{ name: "Chicha Blueberry", price: "15$" }],
-  },
-  {
-    slug: "mix-maison",
-    label: "MIX MAISON",
-    desc: "Création du chef",
-    items: [
-      { name: "Mix Tropical", price: "20$", desc: "Mangue · Passion · Menthe" },
-      { name: "Mix Oriental", price: "20$", desc: "Pomme · Cannelle · Menthe" },
-    ],
+    slug: "SHISHA SPECIALE",
+    label: "SHISHA SPECILE",
+    desc: "La spécialité ",
+    items: [{ name: "SHISHA SPECIALE", price: "50$" }],
   },
 ];
