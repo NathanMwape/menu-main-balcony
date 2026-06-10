@@ -69,6 +69,7 @@ import sfDasani from "@/assets/soft/dasani.jpg";
 import sfSucre from "@/assets/soft/sucre.jpg";
 import sfCeres from "@/assets/soft/ceres.jpg";
 import sfRedbull from "@/assets/soft/redbull.jpg";
+import sfxxl  from @/assets/soft/xxl.jpg"
 import tqAzul from "@/assets/tequila/azul.jpg";
 import tqDj1942 from "@/assets/tequila/don-julio-1942.jpg";
 import tqDjRepo from "@/assets/tequila/don-julio-reposado.jpg";
@@ -255,6 +256,7 @@ export const boireCategories: Category[] = [
       { name: "Sucré", price: "2 $", image: sfSucre },
       { name: "Jus Ceres", price: "10 $", image: sfCeres },
       { name: "Red Bull", price: "5 $", image: sfRedbull },
+      { name: "xxl", price: "3 $", image: sfxxl },
     ],
   },
 ];
