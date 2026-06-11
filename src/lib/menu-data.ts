@@ -29,7 +29,8 @@ import whGreenLabel from "@/assets/whisky/green-label.jpg";
 import whJackDaniels from "@/assets/whisky/jack-daniels.jpg";
 import whGentlemanJack from "@/assets/whisky/gentleman-jack.jpg";
 import whJackHoney from "@/assets/whisky/jack-daniels-honey.jpg";
-import whJameson from "@/assets/whisky/jameson.jpg";
+import whJameson from "@/assets/whisky/RED LABEL.jpeg";
+import redlabel from "@/assets/whisky/jameson.jpg";
 import bi33 from "@/assets/bieres/33-export.jpg";
 import biCastel from "@/assets/bieres/castel.jpg";
 import biBeaufort from "@/assets/bieres/beaufort.jpg";
@@ -132,6 +133,7 @@ export const boireCategories: Category[] = [
       { name: "Jack Daniel's", price: "70 $", image: whJackDaniels },
       { name: "Jack Daniel Gentleman", price: "80 $", image: whGentlemanJack },
       { name: "Jameson", price: "50 $", image: whJameson },
+      { name: "red label", price: "40 $", image: whredlabel },
     ],
   },
   {
