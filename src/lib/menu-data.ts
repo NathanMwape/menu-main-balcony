@@ -30,7 +30,7 @@ import whJackDaniels from "@/assets/whisky/jack-daniels.jpg";
 import whGentlemanJack from "@/assets/whisky/gentleman-jack.jpg";
 import whJackHoney from "@/assets/whisky/jack-daniels-honey.jpg";
 import whJameson from "@/assets/whisky/jameson.jpg";
-import redlabel from "@/assets/whisky/RED LABEL.jpeg;
+import redlabel from "@/assets/whisky/RED LABEL.jpeg";
 import bi33 from "@/assets/bieres/33-export.jpg";
 import biCastel from "@/assets/bieres/castel.jpg";
 import biBeaufort from "@/assets/bieres/beaufort.jpg";
