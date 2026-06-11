@@ -80,7 +80,7 @@ import tqPatron from "@/assets/tequila/patron.jpg";
 import vdAbsolut from "@/assets/vodka/absolut.jpg";
 import vdBelvedere from "@/assets/vodka/belvedere.jpg";
 import vdcirocSummer from "@/assets/vodka/ciroc summer.jpeg";
-import vdcirocVodka from "@/assets/vodka/ciroc vodka.jpeg"; 
+import vdcirocVodka from "@/assets/vodka/ciroc vodka.jpeg";
 import vdGreyGoose from "@/assets/vodka/grey goose.jpeg";
 import vnPinotage from "@/assets/vins/nederburg-pinotage.jpg";
 import vnRose from "@/assets/vins/rendez-vous.jpg";
@@ -111,8 +111,8 @@ export const boireCategories: Category[] = [
       { name: "Ruinart Brut", price: "200 $", image: champRuinartBrut },
       { name: "Veuve Clicquot Brut", price: "150 $", image: champVeuveBrut },
       { name: "Veuve Clicquot Rich", price: "180 $", image: champVeuveRich },
-    
-      
+
+
     ],
   },
   {
@@ -133,7 +133,7 @@ export const boireCategories: Category[] = [
       { name: "Jack Daniel's", price: "70 $", image: whJackDaniels },
       { name: "Jack Daniel Gentleman", price: "80 $", image: whGentlemanJack },
       { name: "Jameson", price: "50 $", image: whJameson },
-      { name: "red label", price: "40 $", image: whredlabel },
+      { name: "red label", price: "40 $", image: redlabel },
     ],
   },
   {
@@ -181,7 +181,7 @@ export const boireCategories: Category[] = [
     desc: "Botaniques raffinés",
     items: [
       { name: "Hendrick's", price: "100 $", image: giHendricks },
-      
+
     ],
   },
   {
@@ -198,7 +198,7 @@ export const boireCategories: Category[] = [
       { name: "Amarula", price: "40 $", image: lqAmarula },
       { name: "Malibu", price: "40 $", image: lqmalibu },
       { name: "cointreau", price: "50 $", image: lqCointreau },
-      
+
 
     ],
   },
@@ -278,7 +278,7 @@ export const fumerAromes: Category[] = [
     desc: "Fraîcheur intense",
     items: [
       { name: "SHISHA MIXTE", price: "30$" }
-      
+
     ],
   },
   {
