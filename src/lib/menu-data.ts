@@ -45,6 +45,7 @@ import biCorona from "@/assets/bieres/corona.jpg";
 import ciHunters from "@/assets/cider/hunters.jpg";
 import ciSavanna from "@/assets/cider/savanna.jpg";
 import ckCocktail from "@/assets/cocktails/cocktail.jpg";
+import cRudisha from "@/assets/cocktails/rudisha nguvu.png";
 import cgHennessyVs from "@/assets/cognac/hennessy-vs.jpg";
 import cgHennessyVsop from "@/assets/cognac/hennessy-vsop.jpg";
 import cgHennessyXo from "@/assets/cognac/hennessy-xo.jpg";
@@ -220,6 +221,7 @@ export const boireCategories: Category[] = [
     desc: "Signature du chef",
     items: [
       { name: "Cocktail", price: "15 $", image: ckCocktail },
+      { name: "Rudisha nguvu, price:"15 $", image:cRudisha}
     ],
   },
   {
