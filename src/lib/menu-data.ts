@@ -221,7 +221,7 @@ export const boireCategories: Category[] = [
     desc: "Signature du chef",
     items: [
       { name: "Cocktail", price: "15 $", image: ckCocktail },
-      { name: "Rudisha nguvu, price:"15 $", image:ckRudisha}
+      { name: "Rudisha nguvu, price:"15 $", image:ckRudisha},
     ],
   },
   {
