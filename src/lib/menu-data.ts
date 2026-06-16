@@ -229,7 +229,7 @@ export const boireCategories: Category[] = [
     items: [
       { name: "33 Export", price: "5 $", image: bi33 },
       { name: "Castel", price: "5 $", image: biCastel },
-      { name: "Beaufort", price: "5 $", image: biBeaufort },
+      { name: "Beaufort", price: "6 $", image: biBeaufort },
       { name: "Guinness", price: "8 $", image: biGuinness },
       { name: "Simba", price: "5 $", image: biSimba },
       { name: "Tembo", price: "5 $", image: biTembo },
